@@ -5,7 +5,7 @@ Sorted ArrayList in Ascending order : [A computer portal, For, ForGeeks, Geeks, 
 
 import java.util.*;
 
-public class ArrayList {
+public class ArrayList12 {
 	public static void main(String args[])
 	{
 
