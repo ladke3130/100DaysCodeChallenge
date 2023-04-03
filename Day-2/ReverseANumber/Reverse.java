@@ -1,11 +1,11 @@
-//Test case1:
+/*//Test case1:
 Input:
 Enter any number:123
 Output:321
 //Test Case2:
 Input:
 Enter any number:98705
-Output:50789
+Output:50789Z*/
   
 ....................................................................................................................................................................
 import java.util.Scanner ;
