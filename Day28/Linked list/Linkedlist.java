@@ -14,7 +14,8 @@ Linked List
 after deletion at front
 3-->5-->NULL
 after deletion at end
-3-->NULL */
+3-->NULL  ,,,*/
+
 import java.util.Scanner;
 
 public class LinkedList {
