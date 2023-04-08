@@ -6,7 +6,7 @@ Output :
 Enter number of elements in first array: 5
 Enter number of elements in second array: 5
 Enter first array elements:
-10 20 30 40 50
+10 20 30 40 50   
 Enter second array elements:
 9 18 27 36 45
 Resultant Array: [19, 38, 57, 76, 95]*/
