@@ -28,6 +28,7 @@ class Node{
         next=null;
     }
     Node(){
+      
 
     }
     void insertEnd(int d){
