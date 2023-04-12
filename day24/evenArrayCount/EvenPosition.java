@@ -4,7 +4,7 @@
 //Test case 1 :- 
 //  Input :- {1,2,3,4,5}
 //Output :- Elements of given array present on even position:
-2
+2\
 4
  //Test case 2 :-
   // Input :- {1,2,3,4,5,6,7,8,9}
