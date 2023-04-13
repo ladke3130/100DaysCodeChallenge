@@ -5,7 +5,9 @@
 Output :- 
   Number of elements present in given array: 5
 
-public class CountArray {  
+public class CountArray
+{ 
+  
     public static void main(String[] args) {  
       //Initialize array  
         int [] arr = new int [] {1, 2, 3, 4, 5};  
