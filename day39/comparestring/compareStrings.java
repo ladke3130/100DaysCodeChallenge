@@ -5,6 +5,8 @@ To understand this example, you should have the knowledge of the following Java 
 Test case 1 :
 input :- strng 1 :- Bold
          string 2:- Gold
+         
+         '
  output :- not equal*/
 public class CompareStrings {
 
