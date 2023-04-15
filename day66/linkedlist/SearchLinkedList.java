@@ -3,7 +3,9 @@
   If they are equal, set the flag to true and print the message along with the position of the searched node.
   Test case :-
     output :-Element is present in the list at the position: 2
-Element is not present in the list*/
+Element is not present in the list
+
+*/
 
 public class searchLinkedList {  
     //Represent a node of the singly linked list  
