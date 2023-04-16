@@ -1,7 +1,8 @@
 /*Definition :-An ArrayList can be Sorted by using the sort() method of the Collections Class in Java.
   This sort() method takes the collection to be sorted as the parameter and returns a Collection sorted in the Ascending Order by default.
   Test case :-Unsorted ArrayList: [Geeks, For, ForGeeks, GeeksForGeeks, A computer portal]
-Sorted ArrayList in Ascending order : [A computer portal, For, ForGeeks, Geeks, GeeksForGeeks]*/
+Sorted ArrayList in Ascending order : [A computer portal, For, ForGeeks, Geeks, GeeksForGeeks]
+*/
 
 import java.util.*;
 
