@@ -3,6 +3,7 @@
   Test case :- 
     input :-
       array[] = {10, 20, 30, 40, 50};
+      
 output:-
 then sum of array elements = 10 + 20 + 30 + 40 + 50 = 150
 and the average of numbers = 150 / 5 = 30*/
